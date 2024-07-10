@@ -340,5 +340,137 @@ iframe {
   align-self: stretch;
   margin: 0 auto;
 }
-
 /* <!-- My Inspiration section ends --> */
+
+/* my current target section starts here*/
+.my-current-target-container {
+  width: 1334px;
+  height: 463px;
+  /* border: 2px solid red; */
+  margin: 0 auto;
+  margin-top: 160px;
+}
+.my-current-target-text-content {
+  width: 852px;
+  height: 115px;
+  /* border: 2px solid red; */
+  margin: 0 auto;
+  text-align: center;
+}
+.my-current-target-text-content h2 {
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 32px;
+  font-weight: 800;
+  margin-top: 0;
+}
+.my-current-target-text-content p {
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 16px;
+  font-weight: 400;
+  margin-top: 24px;
+}
+.my-current-target-group-container {
+  width: 1334px;
+  height: 300px;
+  /* border: 2px solid red; */
+  margin-top: 45px;
+  display: flex;
+  justify-content: space-between;
+}
+
+/* my-current-target-group-1  */
+.my-current-target-group-1 {
+  width: 345px;
+  height: 220px;
+  padding: 40px;
+  /* border: 2px solid red; */
+  border-radius: 16px;
+  background: rgba(255, 76, 30, 0.05);
+}
+.my-current-target-group-1 h3 {
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 24px;
+  font-weight: 800;
+  margin-top: 24px;
+}
+.my-current-target-group-1 p {
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 16px;
+  font-weight: 400;
+  margin-top: 8px;
+  margin-bottom: 24px;
+}
+.my-current-target-group-1 a {
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+/* my-current-target-group-2  */
+.my-current-target-group-2 {
+  width: 345px;
+  height: 220px;
+  padding: 40px;
+  /* border: 2px solid red; */
+  border-radius: 16px;
+  border-radius: 16px;
+  background: rgba(0, 76, 232, 0.05);
+}
+.my-current-target-group-2 h3 {
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 24px;
+  font-weight: 800;
+  margin-top: 24px;
+}
+.my-current-target-group-2 p {
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 16px;
+  font-weight: 400;
+  margin-top: 8px;
+  margin-bottom: 24px;
+}
+.my-current-target-group-2 a {
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 16px;
+  font-weight: 700;
+}
+/* my-current-target-group-3  */
+.my-current-target-group-3 {
+  width: 345px;
+  height: 220px;
+  padding: 40px;
+  /* border: 2px solid red; */
+  border-radius: 16px;
+  background: rgba(255, 223, 0, 0.05);
+}
+.my-current-target-group-3 h3 {
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 24px;
+  font-weight: 800;
+  margin-top: 24px;
+}
+.my-current-target-group-3 p {
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 16px;
+  font-weight: 400;
+  margin-top: 8px;
+  margin-bottom: 24px;
+}
+.my-current-target-group-3 a {
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+/* my current target section ends here*/
