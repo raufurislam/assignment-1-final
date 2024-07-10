@@ -295,3 +295,50 @@ nav {
   /* border: 2px solid red; */
 }
 /* <!-- why web-development-section ends here --> */
+
+/* <!-- My Inspiration section starts -->*/
+.my-inspiration-container {
+  width: 1334px;
+  height: 800px;
+  /* border: 2px solid red; */
+  margin: 0 auto;
+  margin-top: 88px;
+}
+.my-inspiration-text-content {
+  width: 852px;
+  height: 115px;
+  /* border: 2px solid red; */
+  margin: 0 auto;
+  text-align: center;
+}
+.my-inspiration-text-content h2 {
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 32px;
+  font-weight: 800;
+}
+.my-inspiration-text-content p {
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 16px;
+  font-weight: 400;
+}
+.my-inspiration-video-link-content {
+  width: 1334px;
+  height: 678px;
+  /* border: 2px solid red; */
+  border-radius: 16px;
+  border: 1px solid rgba(13, 19, 33, 0.2);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  margin-top: 48px;
+}
+iframe {
+  border-radius: 16px;
+  align-self: stretch;
+  margin: 0 auto;
+}
+
+/* <!-- My Inspiration section ends --> */
