@@ -568,7 +568,9 @@ iframe {
   margin: 0 auto;
   margin-top: 41px;
   border-radius: 16px;
+  background-color: rgba(0, 0, 0, 0.363);
   background-image: url(./assets/handshake.jpg);
+  background-blend-mode: overlay;
   background-position: center;
 }
 .footer-content-box {
