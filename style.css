@@ -634,9 +634,17 @@ iframe {
   margin-top: 70px;
   padding: 0 170px;
   display: flex;
+  background: rgba(13, 19, 33, 0.03);
+}
+.end-footer-content {
+  width: 1334px;
+  height: 36px;
+  display: flex;
   align-items: center;
   justify-content: space-between;
-  background: rgba(13, 19, 33, 0.03);
+  margin: 0 auto;
+  margin-top: 32px;
+  /* border: 2px solid red; */
 }
 .end-footer-text-content h2 {
   color: rgb(13, 19, 33);
