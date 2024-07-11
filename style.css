@@ -75,6 +75,7 @@ nav {
   text-align: center;
   text-align: center;
   margin-top: 0;
+  opacity: 0.7;
 }
 .btn-2 {
   border-radius: 8px;
@@ -125,6 +126,7 @@ nav {
   font-weight: 400;
   margin-top: 0px;
   margin-bottom: 48px;
+  opacity: 0.7;
 }
 .why-web-development-banner-content-1 {
   width: 946px;
@@ -322,6 +324,7 @@ nav {
   font-family: Azeret Mono;
   font-size: 16px;
   font-weight: 400;
+  opacity: 0.7;
 }
 .my-inspiration-video-link-content {
   width: 1334px;
@@ -370,6 +373,7 @@ iframe {
   font-size: 16px;
   font-weight: 400;
   margin-top: 24px;
+  opacity: 0.7;
 }
 .my-current-target-group-container {
   width: 1334px;
@@ -403,6 +407,7 @@ iframe {
   font-weight: 400;
   margin-top: 8px;
   margin-bottom: 24px;
+  opacity: 0.7;
 }
 .my-current-target-group-1 a {
   color: rgb(13, 19, 33);
@@ -435,6 +440,7 @@ iframe {
   font-weight: 400;
   margin-top: 8px;
   margin-bottom: 24px;
+  opacity: 0.7;
 }
 .my-current-target-group-2 a {
   color: rgb(13, 19, 33);
@@ -465,6 +471,7 @@ iframe {
   font-weight: 400;
   margin-top: 8px;
   margin-bottom: 24px;
+  opacity: 0.7;
 }
 .my-current-target-group-3 a {
   color: rgb(13, 19, 33);
@@ -472,5 +479,150 @@ iframe {
   font-size: 16px;
   font-weight: 700;
 }
-
 /* my current target section ends here*/
+
+/* My next target starts here */
+.my-next-target-container {
+  width: 1334px;
+  height: 871px;
+  /* border: 2px solid red; */
+  margin: 0 auto;
+  margin-top: 110px;
+}
+.my-next-target-text-content {
+  width: 852px;
+  height: 115px;
+  /* border: 2px solid red; */
+  margin: 0 auto;
+  text-align: center;
+  margin-bottom: 48px;
+}
+.my-next-target-text-content h2 {
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 32px;
+  font-weight: 800;
+}
+.my-next-target-text-content p {
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 16px;
+  font-weight: 400;
+  opacity: 0.7;
+}
+.my-next-target-group-container {
+  width: 1334px;
+  height: 708px;
+  /* border: 2px solid red; */
+}
+.my-next-target-group-1 {
+  width: 1334px;
+  height: 220px;
+  /* border: 2px solid red; */
+  padding: 40px;
+  box-sizing: border-box;
+  border: 1px solid rgba(13, 19, 33, 0.15);
+  border-radius: 16px;
+  background: rgb(255, 255, 255);
+  margin-top: 24px;
+  display: flex;
+}
+.my-next-target-group-1-leftside {
+  width: 140px;
+  height: 140px;
+  /* border: 2px solid red; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.btn-4 {
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 16px;
+  font-weight: 700;
+}
+.my-next-target-group-1-rightside {
+  margin-left: 24px;
+}
+.my-next-target-group-1-rightside p {
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 16px;
+  font-weight: 400;
+  opacity: 0.7;
+}
+.my-next-target-group-1-rightside h3 {
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 24px;
+  font-weight: 800;
+  margin-top: 5px;
+  margin-bottom: 8px;
+}
+/* My next target ends here */
+/* footer starts here */
+.footer-container {
+  width: 1334px;
+  height: 314px;
+  border: 2px solid rgba(255, 0, 0, 0);
+  margin: 0 auto;
+  margin-top: 41px;
+  border-radius: 16px;
+  background-image: url(./assets/handshake.jpg);
+  background-position: center;
+}
+.footer-content-box {
+  width: 1044px;
+  height: 186px;
+  border: 2px solid rgba(255, 0, 0, 0);
+  margin: 0 auto;
+  margin-top: 64px;
+  text-align: center;
+  align-items: center;
+}
+.footer-text-content {
+  width: 606px;
+  height: 104px;
+  border: 2px solid rgba(255, 0, 0, 0);
+  margin: 0 auto;
+}
+.footer-text-content h2 {
+  color: rgb(255, 255, 255);
+  font-family: Azeret Mono;
+  font-size: 32px;
+  font-weight: 700;
+  margin-top: 0;
+  margin-bottom: 16px;
+}
+.footer-text-content p {
+  color: rgb(255, 255, 255);
+  font-family: Azeret Mono;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  opacity: 0.7;
+  margin-top: 0;
+}
+.footer-form-contend [type="text"] {
+  width: 548px;
+  height: 57px;
+  border-radius: 8px;
+  padding: 1px 20px;
+  color: rgba(13, 19, 33, 0.4);
+  font-family: Azeret Mono;
+  font-size: 16px;
+  font-weight: 400;
+  border: none;
+  margin-top: 24px;
+}
+.footer-form-contend [type="submit"] {
+  width: 120px;
+  height: 58px;
+  border-radius: 8px;
+  border: none;
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 20px;
+  font-weight: 600;
+}
+/* footer ends here */
