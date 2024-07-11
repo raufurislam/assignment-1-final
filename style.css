@@ -481,6 +481,85 @@ iframe {
 }
 /* my current target section ends here*/
 
+/* My next target starts here */
+.my-next-target-container {
+  width: 1334px;
+  height: 871px;
+  /* border: 2px solid red; */
+  margin: 0 auto;
+  margin-top: 110px;
+}
+.my-next-target-text-content {
+  width: 852px;
+  height: 115px;
+  /* border: 2px solid red; */
+  margin: 0 auto;
+  text-align: center;
+  margin-bottom: 48px;
+}
+.my-next-target-text-content h2 {
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 32px;
+  font-weight: 800;
+}
+.my-next-target-text-content p {
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 16px;
+  font-weight: 400;
+  opacity: 0.7;
+}
+.my-next-target-group-container {
+  width: 1334px;
+  height: 708px;
+  /* border: 2px solid red; */
+}
+.my-next-target-group-1 {
+  width: 1334px;
+  height: 220px;
+  /* border: 2px solid red; */
+  padding: 40px;
+  box-sizing: border-box;
+  border: 1px solid rgba(13, 19, 33, 0.15);
+  border-radius: 16px;
+  background: rgb(255, 255, 255);
+  margin-top: 24px;
+  display: flex;
+}
+.my-next-target-group-1-leftside {
+  width: 140px;
+  height: 140px;
+  /* border: 2px solid red; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.btn-4 {
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 16px;
+  font-weight: 700;
+}
+.my-next-target-group-1-rightside {
+  margin-left: 24px;
+}
+.my-next-target-group-1-rightside p {
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 16px;
+  font-weight: 400;
+  opacity: 0.7;
+}
+.my-next-target-group-1-rightside h3 {
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 24px;
+  font-weight: 800;
+  margin-top: 5px;
+  margin-bottom: 8px;
+}
+/* My next target ends here */
 /* footer starts here */
 .footer-container {
   width: 1334px;
