@@ -626,3 +626,22 @@ iframe {
   font-weight: 600;
 }
 /* footer ends here */
+
+/* end-footer-container */
+.end-footer-container {
+  height: 100px;
+  /* border: 2px solid red; */
+  margin-top: 70px;
+  padding: 0 170px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: rgba(13, 19, 33, 0.03);
+}
+.end-footer-text-content h2 {
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 20px;
+  font-weight: 600;
+  margin-top: 20px;
+}
